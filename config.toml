@@ -1,8 +1,10 @@
-baseURL = 'https://example.com/'
+baseURL = 'https://marwaelhamdaoui.github.io/marwa-portfolio/'
 languageCode = 'en-us'
 title = 'Marwa Elhamdaoui'
-theme = 'minimal'
+theme = 'ananke'
 
 [params]
+    googleAnalytics = ""
     author = "Marwa Elhamdaoui"
     description = "Cybersecurity Engineering Student, 20 years old"
+    university = "INPT"

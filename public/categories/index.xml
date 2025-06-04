@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Marwa Elhamdaoui</title>
-    <link>https://marwaelhamdaoui.github.io/marwa-portfolio/categories/</link>
+    <link>http://localhost:1313/marwa-portfolio/categories/</link>
     <description>Recent content in Categories on Marwa Elhamdaoui</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://marwaelhamdaoui.github.io/marwa-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/marwa-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
