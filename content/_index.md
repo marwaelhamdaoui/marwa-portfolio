@@ -1,9 +1,9 @@
 ---
-title: "Marwa Elhamdaoui"
+title: "My Portfolio"
 ---
 
-![Profile Image](/images/profile.jpg)
+ Marwa Elhamdaoui
 
-# Marwa Elhamdaoui
 **Cybersecurity Engineering Student**  
+University: INPT 
 **20 years old**
