@@ -1,0 +1,8 @@
+baseURL = 'https://example.com/'
+languageCode = 'en-us'
+title = 'Marwa Elhamdaoui'
+theme = 'minimal'
+
+[params]
+    author = "Marwa Elhamdaoui"
+    description = "Cybersecurity Engineering Student, 20 years old"
